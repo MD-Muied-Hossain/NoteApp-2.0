@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Note App 2.0</string>
+    <string name="title">Title</string>
+    <string name="note">Note</string>
+    <string name="todo">TODO</string>
+    <string name="note_app_2_0">Note App 2.0</string>
+</resources>
